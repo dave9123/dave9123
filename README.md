@@ -3,6 +3,7 @@
 🇮🇩 Human from Indonesia<br />
 👩‍💻 Can code using JavaScript and Python<br />
 
+Profile from a [free 3D model](https://123free3dmodels.com/toy-cartoon-house-beach-46436)<br />
 Check my [website](https://dave9123.pages.dev) out!
 </p>
 
